@@ -2,4 +2,4 @@
 
 This repo is from a blog post. You can read complete post here.
 
-https://devfever.blogspot.com/2020/09/face-detection-and-recognition-using.html
+https://mlhive.com/2021/01/face-detection-using-face-recognition-library
